@@ -25,3 +25,7 @@ A deep learning project implementing a custom Convolutional Neural Network (CNN)
    ```bash
    python "final project1.py"
    ```
+3. Download the model file from here:
+   ```bash
+   https://github.com/moaazelghareib/ADV-AI-hand-gestures-project/releases/tag/model
+   ```
